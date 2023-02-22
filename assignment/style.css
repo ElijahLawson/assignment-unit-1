@@ -20,9 +20,12 @@ p {
 /* Put a border around your image */
 img {
     border: 1;
+    width: 200px;
+    height: 200px;
 }
 
 /* Change the font-family of your list */
 li {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
 }
