@@ -17,9 +17,16 @@ p {
     font-style: italic;
 }
 
+.container {
+    display: flex;
+    align-items: center;
+    
+}
+
+
 /* Put a border around your image */
 img {
-    border: 1;
+    border: 1px solid;
     width: 200px;
     height: 200px;
 }
